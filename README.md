@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiknu&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknu" /> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning Frontend Technologies & DSA
 
 - 📫 How to reach me **karthiknu01@gmail.com**
 
