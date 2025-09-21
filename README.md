@@ -5,22 +5,23 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student 
+## I'm a Computer Science and Engineering Passout 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack,Projects etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😍
-- 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
+- 👨‍💻 I have learnt web development technologies like JavaScript, HTML CSS,React, MERN Stack,Projects etc.
+- 📚 I’m currently learning everything about Cloud and Devops 😍
+- 🙎🏻 Persuing Azure and AWS certifications
+- 🎯 Future Goals: Learn more technologies - Learning to become a Cloud Engineer.
 - ⚡ Fun facts: Open and friendly. I love to play Outdoor games.
 
 ---
  ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
  <h1 align="center">Hi 👋, I'm Karthik N U</h1>
- <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center">A passionate frontend developer & Cloud person from India</h3>
  <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/18722762/52271/v/450/depositphotos_522718198-stock-illustration-software-development-programming-code-computer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiknu&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknu" /> </p>
 
-- 🌱 I’m currently learning Frontend Technologies & DSA
+- 🌱 I’m currently learning Cloud & Devops deeply 
 
 - 📫 How to reach me **karthiknu01@gmail.com**
 
