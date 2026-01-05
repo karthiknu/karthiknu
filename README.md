@@ -9,7 +9,7 @@
 
 - 👨‍💻 I have learnt web development technologies like JavaScript, HTML CSS,React, MERN Stack,Projects etc.
 - 📚 I’m currently learning everything about Cloud and Devops 😍
-- 🙎🏻 Persuing Azure and AWS certifications
+- 🙎🏻 Pursued "Azure-104" certification and Learning for AWS & AZ-400 certifications
 - 🎯 Future Goals: Learn more technologies - Learning to become a Cloud Engineer.
 - ⚡ Fun facts: Open and friendly. I love to play Outdoor games.
 
