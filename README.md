@@ -16,7 +16,7 @@
 ---
  ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
  <h1 align="center">Hi 👋, I'm Karthik N U</h1>
- <h3 align="center">A passionate frontend developer & Cloud person from India</h3>
+ <h3 align="center">A passionate frontend developer & Cloud Engineer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/18722762/52271/v/450/depositphotos_522718198-stock-illustration-software-development-programming-code-computer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiknu&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknu" /> </p>
