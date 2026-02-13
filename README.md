@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karthik n u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik n u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthik-n-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik n u" height="30" width="40" /></a>
 <a href="https://instagram.com/l.l_stranger_l.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l.l_stranger_l.l" height="30" width="40" /></a>
 </p>
 
