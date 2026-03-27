@@ -7,21 +7,21 @@
 
 ## I'm a Computer Science and Engineering Passout 
 
-- 👨‍💻 I have learnt web development technologies like JavaScript, HTML CSS,React, MERN Stack,Projects etc.
-- 📚 I’m currently learning everything about Cloud and Devops 😍
-- 🙎🏻 Pursued "Azure-104" certification and Learning for AWS & AZ-400 certifications
-- 🎯 Future Goals: Learn more technologies - Learning to become a Cloud Engineer.
-- ⚡ Fun facts: Open and friendly. I love to play Outdoor games.
+- 👨‍💻 I have acquired knowledge in various web development technologies, such as JavaScript, HTML, CSS, React, and the MERN Stack, among others.
+- 📚 Currently, I am diving deep into Cloud and DevOps. 
+- 🙎🏻 I have earned the "Azure-104" certification and the "Azure-400" certification. I am actively preparing for the AWS certification.
+- 🎯 Future Goals: To enhance my understanding of various technologies and to advance my career as a proficient Cloud & DevOps Engineer.
+- ⚡ Fun Facts: I am open and friendly and I enjoy playing outdoor games.
 
 ---
  ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
  <h1 align="center">Hi 👋, I'm Karthik N U</h1>
- <h3 align="center">A passionate frontend developer & Cloud Engineer from India</h3>
+ <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/18722762/52271/v/450/depositphotos_522718198-stock-illustration-software-development-programming-code-computer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiknu&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknu" /> </p>
 
-- 🌱 I’m currently learning Cloud & Devops deeply 
+- 🌱 I’m currently deeply engaged in Cloud and DevOps.
 
 - 📫 How to reach me **karthiknu01@gmail.com**
 
