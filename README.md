@@ -11,7 +11,6 @@
 - 📚 Currently, I am diving deep into Cloud and DevOps. 
 - 🙎🏻 I have earned the "Azure-104" certification and the "Azure-400" certification. I am actively preparing for the AWS certification.
 - 🎯 Future Goals: To enhance my understanding of various technologies and to advance my career as a proficient Cloud & DevOps Engineer.
-- ⚡ Fun Facts: I am open and friendly and I enjoy playing outdoor games.
 
 ---
  ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
