@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **karthiknu01@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ **Highly passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
